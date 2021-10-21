@@ -1,1 +1,2 @@
 # Alzheimer_disease_prediction
+I have detected and delineated distinct objects of interest in biological images depicting neuronal cell types commonly used in the study of neurological disorders. More specifically, I used phase contrast microscopy images to train and test the model for instance segmentation of neuronal cells with a high level of accuracy. I want to discover the effects of disease and treatment conditions on neuronal cells. 
